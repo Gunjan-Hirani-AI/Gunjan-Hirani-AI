@@ -1,56 +1,87 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://github.com/Gunjan-Hirani-AI/Gunjan-Hirani-AI/blob/main/Gunjan_Banner_AI_Engineer.png?raw=true" alt="Gunjan Hirani Banner" width="100%">
+  <img src="https://github.com/Gunjan-Hirani-AI/Gunjan-Hirani-AI/blob/main/Gunjan_Banner_AI_Engineer.png?raw=true" alt="Gunjan Hirani — AI Engineer" width="100%" />
 </p>
 
-<!--
-Credits and references used in this README:
+<h1 align="center">Gunjan Hirani</h1>
+<h3 align="center">AI Engineer · Intelligent Agents · RAG · Backend Automation</h3>
 
-1) Layout ideas and section inspiration:
-   https://github.com/abhisheknaiidu/awesome-github-profile-readme?tab=readme-ov-file#descriptive-
+<p align="center">
+  Building AI systems that solve real business problems — not just demos.
+</p>
 
-2) Skill icons (SVG badges):
-   https://github.com/tandpfun/skill-icons?tab=readme-ov-file#icons-list
 
-3) GitHub stats card:
-   https://github.com/anuraghazra/github-readme-stats
--->
-
-#  Gunjan Hirani — AI Engineer  
-**`AI Engineer @ Insomniacs`**  
+---
 
 ## About Me
-- Building real-world AI automation & intelligent agent systems.  
-- 2.2 years of IT experience: **1.5 years Node.js + 8 Months as AI Engineer**  
-- Created multiple AI agents, workflows & automation systems used inside the company.  
-- Love building AI that solves real business problems!  
+
+```text
+  Focus     →  AI agents, RAG systems, multi-agent workflows, LLM automation
+  Backend   →  Node.js · REST APIs · production-ready services
+  Mindset   →  Ship intelligent systems that work in the real world
+```
+
+- I design and build **AI-powered automation** — from agent orchestration to retrieval pipelines and workflow integrations.
+- I work across the full stack of modern AI engineering: **LangChain, LLM APIs, vector search, n8n, and scalable backends**.
+- I care about **clarity, reliability, and impact** — systems that teams can actually use in production.
+- Always learning, always building — passionate about **agentic AI** and intelligent software.
 
 ---
 
-## ⚙️ Skill Stack  
-[![My Skills](https://skillicons.dev/icons?i=python,js,nodejs,docker,git,github,linux,vscode,postman&theme=light)](https://skillicons.dev)
+## What I Work On
 
-**Also work with:**  
-- **AI/Agent Tools:** Google ADK, OpenAI API, n8n automations  
-- **Visualization & Tools:** Tableau, API Dog, AntiGravity, Cursor  
-- **Backend Skills:** Express.js, REST APIs, Automation pipelines  
+| Area | Focus |
+|------|--------|
+| **AI Agents** | Multi-agent systems, tool use, orchestration, prompt engineering |
+| **RAG & Retrieval** | Embeddings, vector stores, chunking, semantic search |
+| **Automation** | n8n workflows, CRM integrations, business process automation |
+| **Backend** | Node.js, Express, REST APIs, databases, Docker deployments |
+| **LLM Integration** | OpenAI, Gemini, Google ADK, LangChain / LangGraph |
+
+> All projects, demos, and live work are maintained on my **[AI Portfolio Dashboard](https://ai-portfolio-dashboard.vercel.app/)** — one place, always up to date.
 
 ---
 
-## 🔗 Links  
-- 🌐 **Portfolio:**  
-- ✉️ **Email:** gunjan.hirani.developer@gmail.com  
-- 🔗 **LinkedIn:**  
-  <a href="https://linkedin.com/in/gunjan-hirani" target="blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/>
+## Skill Stack
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,js,nodejs,react,docker,git,github,linux,vscode,postman,mongodb,mysql&theme=dark" alt="Core skills" />
   </a>
+</p>
+
+**AI & LLM**
+
+`LangChain` · `LangGraph` · `RAG` · `OpenAI API` · `Google ADK` · `Gemini` · `Prompt Engineering` · `AI Agents` · `MCP` · `ChromaDB`
+
+**Backend & Tools**
+
+`Express.js` · `REST APIs` · `n8n` · `Docker` · `AWS S3` · `RabbitMQ` · `LangFuse` · `Postman` · `Cursor`
 
 ---
 
-![Fun](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXh2ZzdlYWZndHl2dWcyb2RveHlpYzhsand5YmRmaHRwdXhlcGZhZyZlcD12MV9naWZzX3RyZW5kaW5nJmN0PWc/l3q2wJsC23ikJg9xe/giphy.gif)
+## Connect
 
-<div align="center">
+<p align="center">
+  <a href="https://ai-portfolio-dashboard.vercel.app/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=vercel" alt="Portfolio" height="40" />
+  </a>
+  &nbsp;
+  <a href="https://linkedin.com/in/gunjan-hirani" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/Gunjan-Hirani-AI" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="40" />
+  </a>
+</p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:b16eff,50:7c3aed,100:1f6feb&height=120&section=footer&text=Love%20building%20AI%20that%20solves%20real%20problems!&fontSize=16&fontColor=adbac7&fontAlignY=65&animation=fadeIn" width="100%"/>
+<p align="center">
+  <em>Thanks for stopping by — feel free to reach out for collaboration or AI engineering discussions.</em>
+</p>
 
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:b16eff,50:7c3aed,100:1f6feb&height=100&section=footer&text=Building%20AI%20that%20solves%20real%20problems.&fontSize=14&fontColor=adbac7&fontAlignY=65&animation=fadeIn" width="100%" />
+</p>
+
+<!-- Credits: layout inspiration · github.com/abhisheknaiidu/awesome-github-profile-readme | icons · skillicons.dev | stats · github.com/anuraghazra/github-readme-stats -->
